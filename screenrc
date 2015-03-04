@@ -1,0 +1,8 @@
+vbell off
+startup_message off
+defscrollback 10000
+screen -t terminal1 1 bash
+screen -t terminal2 2 bash
+screen -t terminal3 3 bash
+screen -t terminal4 4 bash
+caption always "%m/%d/%y %0c%{=b kg}  %l  %{=r gk}%-w%{=b wb}%50>%n%f* %t%{-}%+Lw%<%{- Wk}"
