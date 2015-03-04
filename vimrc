@@ -1,0 +1,27 @@
+filetype indent plugin on
+syntax on
+set wildmenu
+set number
+set nomodeline
+set showcmd
+set ignorecase
+set smartcase
+set autoindent
+set ruler
+set confirm
+set visualbell
+set mouse=a
+set pastetoggle=<F11>
+set history=700
+set backspace=eol,start,indent
+set whichwrap+=<,>,h,l
+set incsearch
+colorscheme desert
+set background=dark
+set nobackup
+set nowb
+set noswapfile
+set expandtab
+set smarttab
+set shiftwidth=4
+set tabstop=4
